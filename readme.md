@@ -1,1 +1,1 @@
-My first git project
+Git and python works 
